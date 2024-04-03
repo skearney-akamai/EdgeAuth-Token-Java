@@ -10,9 +10,6 @@ It's a behavior which is Auth Token 2.0 Verification.
 
 EdgeAuth-Token-Java supports Java 8+.
 
-<div style="text-align:center"><img src=https://github.com/AstinCHOI/akamai-asset/blob/master/edgeauth/edgeauth.png?raw=true /></div>
-
-
 ## Build
 [Click Here](http://search.maven.org/#artifactdetails%7Ccom.akamai%7Cedgeauth%7C0.2.0%7C)
 
@@ -156,9 +153,6 @@ Returns the authorization token string.
 
 ## Others
 If you use the **Segmented Media Protection** behavior in AMD(Adaptive Media Delivery) Product, **tokenName** should be '**hdnts**'.
-
-<div style="text-align:center"><img src=https://github.com/AstinCHOI/akamai-asset/blob/master/edgeauth/segmented_media_protection.png?raw=true/></div>
-
 
 ## License
 Copyright 2018 Akamai Technologies, Inc.  All rights reserved.
